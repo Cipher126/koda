@@ -17,8 +17,8 @@ Koda is a session-based, AI-powered command-line interface (CLI) coding assistan
 
 Koda currently supports the following programming languages:
 
-*   **Python**: `.py`
-*   **JavaScript**: `.js`, `.mjs`, `.cjs`, `.ts`
+*   **Python**: `.py`, `.ipynb`
+*   **JavaScript**: `.js`, `.mjs`, `.cjs`, `.ts`, `.jsx`, `.tsx`
 *   **Java**: `.java`
 
 ## Supported AI Providers
