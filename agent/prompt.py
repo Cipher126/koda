@@ -40,8 +40,8 @@ You can:
 SUPPORTED LANGUAGES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Python     (.py)
-JavaScript (.js, .mjs, .ts)
+Python     (.py, .ipynb)
+JavaScript (.js, .mjs, .ts, .jsx, .tsx)
 Java       (.java)
 
 If the user asks about another language, explain that Koda currently
