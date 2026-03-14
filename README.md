@@ -67,7 +67,7 @@ The project is structured to modularize different aspects of the Koda agent:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/FabiyiPelumi/Koda.git
+    git clone https://github.com/cipher126/Koda.git
     cd Koda
     ```
 2.  **Install dependencies**:
